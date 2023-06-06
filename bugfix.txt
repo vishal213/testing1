@@ -1,7 +1,1 @@
-Fixing bug 488...
-Please wait...
-Done!
-Please restart your system and see effect. Please know that another bug is
-known with current fix - sometimes postponing restart is known to cause
-problems at boot time when restarting after long time of fix application.
-This is normal. The boot time may exceed to 1 hour.
+
